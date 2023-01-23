@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=CEF7B2&multiline=true&width=435&lines=Hi+there)](https://git.io/typing-svg)
 
 <!--
 **mb6ockatf/mb6ockatf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![mb6ockatf's stats](https://github-readme-stats.vercel.app/api?username=mb6ockatf&count_private=true&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mb6ockatf&count_private=true&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=4&cache_seconds=8640)](https://github.com/anuraghazra/github-readme-stats)
