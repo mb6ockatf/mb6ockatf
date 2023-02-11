@@ -11,10 +11,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 [![mb6ockatf's stats](https://github-readme-stats.vercel.app/api?username=mb6ockatf&count_private=true&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mb6ockatf&count_private=true&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=4&cache_seconds=8640)](https://github.com/anuraghazra/github-readme-stats)
+
+------
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mb6ockatf&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mb6ockatf&theme=matrix)](https://github.com/mb6ockatf/github-profile-trophy)
