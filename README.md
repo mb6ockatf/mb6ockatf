@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=CEF7B2&multiline=true&width=435&lines=Hi+there)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=78fe96&multiline=true&width=435&lines=Hi+there)](https://git.io/typing-svg)
 
 <!--
 **mb6ockatf/mb6ockatf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mb6ockatf&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mb6ockatf&theme=matrix)](https://github.com/mb6ockatf/github-profile-trophy)
+
+![codewars](https://github.r2v.ch/codewars?user=mb6ockatf&stroke=%2378fe96&top_languages=true&hide_clan=true&theme=dark&name=mb6ockatf)
