@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## [![Languages & tools](https://readme-typing-svg.demolab.com?font=Consolas&size=25&duration=7000&pause=10000&color=78FE96&background=000000&width=500&height=60&lines=Languages+%26+tools)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=python,bash,html,css,lua,vim,raspberrypi,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,lua,vim,raspberrypi,linux&theme=dark" />
 
 ## [![Contribution stats](https://readme-typing-svg.demolab.com?font=Consolas&size=25&duration=7000&pause=10000&color=78FE96&background=000000&width=500&height=60&lines=Contribution+stats)](https://git.io/typing-svg)
 
