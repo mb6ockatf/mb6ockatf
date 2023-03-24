@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=78fe96&multiline=true&width=435&lines=Hi+there)](https://git.io/typing-svg)
+[![Hi there](https://readme-typing-svg.demolab.com?font=Consolas&size=25&duration=7000&pause=10000&color=78FE96&background=000000&width=500&height=60&lines=Hi+there)](https://git.io/typing-svg)
 
 <!--
 **mb6ockatf/mb6ockatf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![mb6ockatf's stats](https://github-readme-stats.vercel.app/api?username=mb6ockatf&count_private=true&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+## [![Languages & tools](https://readme-typing-svg.demolab.com?font=Consolas&size=25&duration=7000&pause=10000&color=78FE96&background=000000&width=500&height=60&lines=Languages+%26+tools)](https://git.io/typing-svg)
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mb6ockatf&count_private=true&show_icons=true&theme=dark&hide_border=true&layout=compact&cache_seconds=8640&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://skillicons.dev/icons?i=python,bash,html,css,lua,vim,raspberrypi,linux&theme=dark" />
 
-------
+## [![Contribution stats](https://readme-typing-svg.demolab.com?font=Consolas&size=25&duration=7000&pause=10000&color=78FE96&background=000000&width=500&height=60&lines=Contribution+stats)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mb6ockatf&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api?username=mb6ockatf&count_private=true&show_icons=true&hide_border=true&cache_seconds=86400&theme=merko#gh-dark-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb6ockatf&count_private=true&show_icons=true&hide_border=true&layout=compact&cache_seconds=8640&langs_count=10&theme=merko#gh-dark-mode-only" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mb6ockatf&theme=matrix)](https://github.com/mb6ockatf/github-profile-trophy)
 
-![codewars](https://github.r2v.ch/codewars?user=mb6ockatf&stroke=%2378fe96&top_languages=true&hide_clan=true&theme=dark&name=mb6ockatf)
+## [![Codewars stats](https://readme-typing-svg.demolab.com?font=Consolas&size=25&duration=7000&pause=10000&color=78FE96&background=000000&width=500&height=60&lines=Codewars+stats)](https://git.io/typing-svg)
+
+<img src="https://github.r2v.ch/codewars?user=mb6ockatf&stroke=black&top_languages=true&hide_clan=true&theme=nightowl&name=mb6ockatf" />
+
+<div align="right">
+  <p> <img src="https://komarev.com/ghpvc/?username=mb6ockatf&label=PROFILE%20VIEWS&color=grey&style=for-the-badge" alt="mb6ockatf" /> </p>
+</div>
