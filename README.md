@@ -16,7 +16,9 @@ currently learning [lua](https://www.lua.org/)
 - discord: mb6ockatf#8957
 ([link](https://discordapp.com/users/725303688192720977))
 
-contribution statistics is available [here](stats.md)
+------
+
+- contribution statistics is available [here](stats.md)
+- dotfiles available [here](https://github.com/mb6ockatf/dotfiles)
 
 ![profile views badge](https://komarev.com/ghpvc/?username=mb6ockatf&label=VIEWS&color=grey&style=for-the-badge)
-
