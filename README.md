@@ -1,24 +1,26 @@
 # hi there
 
-## my languages
+<center>
+    <img src="pictures/welcome.png" width=400>
+</center>
 
-- python (my very first language)
-- bash
-- vimscript
 
-currently learning [lua](https://www.lua.org/)
+<center>
+    <img src="pictures/screens.gif" width=400>
+</center>
 
-## contacts
+i use [arch](https://archlinux.org/) btw
 
-- email: mdddmmmm@ya.ru
-- telegram: @mb6ockatf_76
-([link](https://t.me/mb6ockatf_76))
-- discord: mb6ockatf#8957
-([link](https://discordapp.com/users/725303688192720977))
+
+- contribution [statistics](stats.md)
+- my [dotfiles](https://github.com/mb6ockatf/dotfiles)
+- my [languages](languages.md)
+- [contact](contacts.md) me
+<center>
+    <img src="https://profile-counter.glitch.me/mb6ockatf/count.svg" alt="hit counter" align="center">
+</center>
 
 ------
 
-- contribution statistics is available [here](stats.md)
-- dotfiles available [here](https://github.com/mb6ockatf/dotfiles)
-
-![profile views badge](https://komarev.com/ghpvc/?username=mb6ockatf&label=VIEWS&color=grey&style=for-the-badge)
+<img src="pictures/vim.gif">
+<img src="pictures/noframes.gif">
