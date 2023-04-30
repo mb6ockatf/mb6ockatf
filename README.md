@@ -22,5 +22,4 @@ i use [arch](https://archlinux.org/) btw
 
 ------
 
-<img src="pictures/vim.gif">
-<img src="pictures/noframes.gif">
+<img src="pictures/vim.gif"><img src="pictures/noframes.gif">
