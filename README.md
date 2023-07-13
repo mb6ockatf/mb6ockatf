@@ -18,6 +18,8 @@
 <center>
 <img src="https://profile-counter.glitch.me/mb6ockatf/count.svg"
      alt="hit counter">
-[![monkeytype.badge]](https://monkeytype.com/)
 </center>
+
+[![monkeytype.badge]](https://monkeytype.com/)
+
 [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
