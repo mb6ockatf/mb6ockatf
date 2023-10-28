@@ -10,6 +10,9 @@
     <a href="https://gist.github.com/mb6ockatf">gists</a>
 </b>
 
+checkout my codewars solutions page:
+
+[![codewars repo](https://github-readme-stats.vercel.app/api/pin/?username=mb6ockatf&repo=codewars\&title_color=fff\&icon_color=ffffff\&text_color=ffffff\&bg_color=000000)](https://github.com/mb6ockatf/codewars)
 
 ------
 
