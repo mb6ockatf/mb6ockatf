@@ -6,13 +6,17 @@
 <b>
     contribution <a href="stats.md">statistics</a> |
     <a href="https://github.com/mb6ockatf/dotfiles">dotfiles</a> |
-    <a href="languages.md">languages</a> | 
+    <a href="languages.md">languages</a> |
     <a href="https://gist.github.com/mb6ockatf">gists</a>
 </b>
 
 checkout my codewars solutions page:
 
 [![codewars repo](https://github-readme-stats.vercel.app/api/pin/?username=mb6ockatf&repo=codewars\&title_color=fff\&icon_color=ffffff\&text_color=ffffff\&bg_color=000000)](https://github.com/mb6ockatf/codewars)
+
+and leetcode:
+
+[![leetcode repo](https://github-readme-stats.vercel.app/api/pin/?username=mb6ockatf&repo=leetcode\&title_color=fff\&icon_color=ffffff\&text_color=ffffff\&bg_color=000000)](https://github.com/mb6ockatf/leetcode)
 
 ------
 
