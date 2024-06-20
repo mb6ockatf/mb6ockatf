@@ -4,5 +4,7 @@
 | ------ | ------ |
 | <img src="https://github-readme-stats-qe6cs40i2-mb6ockatf.vercel.app/api/top-langs/?username=mb6ockatf&count_private=true&show_icons=true&hide_border=true&layout=compact&cache_seconds=8640&langs_count=100&theme=merko"> | |
 
+<img src="pictures/loading.gif" align="left">
+
 if stats are no more loading, consider reloading this page.
 if still nothing works, then it means that monthly request limit is out

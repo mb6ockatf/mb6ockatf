@@ -7,6 +7,8 @@
     ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=black)
 ](https://www.lua.org/)
 
+<img src="pictures/dance_c.gif" align="left">
+
 python is my very first language.
 as an arch user, i know basics of bash
 
