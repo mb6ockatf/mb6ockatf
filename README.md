@@ -3,7 +3,6 @@
 
 <sub>i use [arch](https://archlinux.org/) btw</sub>
 
-<img src="pictures/microsoftcrashtoday.gif" align="left">
 <img src="pictures/linux-ms2.gif" align="left">
 
 <b>
@@ -32,3 +31,4 @@ checkout my tasks solutions page:
 [![monkeytype.badge]](https://monkeytype.com/)
 
 [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D48wpm%26label%3Dmonkeytype%26logoVariant%3Done
+
