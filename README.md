@@ -2,7 +2,7 @@
 <center><img src="pictures/screens.gif" width=400></center>
 
 <sub>i use [arch](https://archlinux.org/) btw</sub>
-<img src="pictures/winbloat.gif" align="left">
+
 <img src="pictures/microsoftcrashtoday.gif" align="left">
 <img src="pictures/linux-ms2.gif" align="left">
 
