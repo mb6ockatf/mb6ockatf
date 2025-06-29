@@ -14,7 +14,9 @@
 
 checkout my tasks solutions page:
 
-[![codewars repo](https://github-readme-stats.vercel.app/api/pin/?username=mb6ockatf&repo=solutions\&title_color=fff\&icon_color=ffffff\&text_color=ffffff\&bg_color=000000)](https://github.com/mb6ockatf/solutions)
+[![codewars repo](
+https://github-readme-stats.vercel.app/api/pin/?username=mb6ockatf&repo=solutions\&title_color=fff\&icon_color=ffffff\&text_color=ffffff\&bg_color=000000)](
+https://github.com/mb6ockatf/solutions)
 
 ------
 
@@ -23,6 +25,7 @@ checkout my tasks solutions page:
 <img src="pictures/no-more-ie.gif" align="left">
 <img src="pictures/evil_explorer.gif" align="left">
 <img src="pictures/ie2.gif" align="left">
+<img src="pictures/against.gif" align="left">
 <center>
 <img src="https://profile-counter.glitch.me/mb6ockatf/count.svg"
      alt="hit counter">
