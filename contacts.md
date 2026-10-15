@@ -9,7 +9,4 @@
 ](mailto:mdddmmmm@ya.ru)
 [
     ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black)
-](https://t.me/mb6ockatf_76)
-[
-    ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black)
-](https://discordapp.com/users/725303688192720977)
+](https://t.me/mb6ockatf76)
