@@ -35,3 +35,11 @@ https://github.com/mb6ockatf/solutions)
 
 [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D48wpm%26label%3Dmonkeytype%26logoVariant%3Done
 
+<!--
+Copyright (C) 2023-2026 mb6ockatf
+
+The contents of this repository are free: you can redistribute them
+and/or modify them under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.  See COPYING.
+-->
